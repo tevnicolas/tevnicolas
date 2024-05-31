@@ -9,7 +9,7 @@
   
 - 😄 Pronouns: he/him
   
-- ⚡ Fun fact: I studied Music Composition and have recorded and released several albums of my own music
+- ⚡ Fun fact: I studied Music Composition and have recorded and released several albums of my own music.
 
 ## About me
 
