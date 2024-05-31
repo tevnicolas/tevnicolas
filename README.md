@@ -1,9 +1,13 @@
 ## 👋 Hi there! I'm @tevnicolas
 
 - 🔭 I’m interested in full-stack web development
+  
 - 🌱 I’m currently learning Python
+  
 - 📫 How to reach me - tevnicolas@protonmail.com
+  
 - 😄 Pronouns: he/him
+  
 - ⚡ Fun fact: I studied Music Composition and have recorded and released several albums of my own music
 
 ## About me
