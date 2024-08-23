@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning Python
   
-- 📫 How to reach me - tevnicolas@protonmail.com
+- 📫 How to reach me - tevnicolas.dev@gmail.com
   
 - 😄 Pronouns: he/him
   
